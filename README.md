@@ -20,3 +20,6 @@ The Sales and Inventory Dashboard in Power BI provides a dynamic visualization o
 - **Scatter Plot** – Analyzes customer behavior based on quantity purchased and revenue.  
 - **Funnel Chart** – Visualizes the sales conversion process or product sales stages.  
 - **KPI Cards** – Display key metrics like total sales, inventory levels, and top-performing products.
+
+### DEMO DASHBOARD
+This is how the dashboard looks like - ![Power BI Dashboard](https://github.com/atishdenisadm/Sales-and-Inventory-Dashboard-Power-BI/blob/main/Sales_and_inventory_dashboard.png)
